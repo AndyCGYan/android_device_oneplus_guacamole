@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Height of the status bar header bar when on Keyguard -->
+    <dimen name="status_bar_header_height_keyguard">28dp</dimen>
+
+    <!-- Height of status bar in split shade mode - visible only on large screens -->
+    <dimen name="large_screen_shade_header_height">28dp</dimen>
+    <dimen name="large_screen_shade_header_min_height">28dp</dimen>
+
+</resources>
